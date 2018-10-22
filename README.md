@@ -1,5 +1,6 @@
 # Evaluating the computation versus communication trade-off on IoT-like nodes for speech recognition applications
 Term project for Energy Aware Computing (18-743) at Carnegie Mellon University
+
 Namrita Murali and Marie Shaw
 
 In an era of smart homes and smart devices, embedded devices are becoming increasingly common as a form of data collection and processing. Moreover, an increasing number of smart home devices are being controlled by voice input, which makes audio processing on embedded devices crucial. In order to process these large datasets, devices need to determine whether to perform complex Machine Learning algorithms on the device or offload them to a server. Since these devices are energy and network constrained, there are energy and time tradeoffs between processing locally or externally. This paper analyzes how performance and energy consumption varies when performing speech recognition processing locally on an embedded device or externally on a server. 
